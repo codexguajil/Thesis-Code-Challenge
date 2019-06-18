@@ -1,3 +1,19 @@
-h1 {
-  color: green;
+*, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: purple;
+}
+
+.nav {
+  color: #FFF;
+  display: inline-flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.nav-btns {
+  display: inline-flex;
 }
