@@ -13,6 +13,10 @@ body {
 
 /*classes*/
 
+.contact-section {
+  display: inline-flex;
+}
+
 .home-prompt {
   /*will add gradient to this section*/
 }
