@@ -23,6 +23,43 @@ h1 {
   display: inline-flex;
 }
 
+.create-act-btn {
+  background-color: hsl(270, 100%, 50%);
+  border: none;
+  border-radius: 8px;
+  color: #FFF;
+  font-size: 16px;
+  margin: auto;
+  padding: 10px;
+  width: 250px;
+}
+
+.description {
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  line-height: 1.5;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: center;
+  width: 50%;
+}
+
+.description-text {
+  font-size: 19px;
+  /* font-weight: lighter; */
+  padding: 35px;
+}
+
+.domain-input {
+  border: none;
+  border-radius: 10px;
+  height: 50px;
+  padding-left: 25px;
+  width: 300px;
+}
+
 .home-prompt {
   background: linear-gradient(
     170deg,
@@ -52,7 +89,7 @@ h1 {
 
 .nav {
   display: inline-flex;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 100%;
 }
 
@@ -60,8 +97,45 @@ h1 {
   display: inline-flex;
 }
 
+.prompt-down {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 50px;
+  width: 33%;
+}
+
+.service {
+  width: 400px;
+}
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  margin: auto;
+  padding: 100px;
+  justify-content: space-around;
+  width: 80%;
+}
+
 /*ids*/
 
-.create-act-btn {
-  background-color: hsl(270, 100%, 50%);
+#down-arrow-btn {
+  background-color: hsl(113, 47%, 62%);
+  border: none;
+  border-radius: 40px;
+  color: #FFF;
+  height: 50px;
+  margin: auto;
+  width: 50px;
+}
+
+#search-btn {
+  background-color: hsl(113, 47%, 62%);
+  border: none;
+  border-radius: 10px;
+  color: #FFF;
+  height: 50px;
+  width: 100px;
 }
