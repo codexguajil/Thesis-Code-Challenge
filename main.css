@@ -5,6 +5,17 @@
   padding: 0;
 }
 
+body {
+  background: red;
+  background: linear-gradient(
+    170deg,
+    hsl(0, 0%, 100%),
+    hsl(0, 0%, 100%) 75%,
+    hsl(234, 67%, 97%) 75%,
+    hsl(234, 67%, 97%) 100%
+    );
+}
+
 /*general elements*/
 
 h1 {
@@ -26,12 +37,25 @@ span {
 .create-act-btn {
   background-color: hsl(270, 100%, 50%);
   border: none;
-  border-radius: 8px;
+  border-radius: 7px;
   color: #FFF;
   font-size: 16px;
   margin: auto;
   padding: 10px;
   width: 250px;
+}
+
+.create-prompt {
+  display: flex;
+  justify-content: space-between;
+  padding: 100px 0;
+  padding-left: 15px;
+  width: 98%;
+}
+
+.buttons {
+  justify-content: space-between;
+  width: 450px;
 }
 
 .description {
@@ -48,7 +72,6 @@ span {
 
 .description-text {
   font-size: 19px;
-  /* font-weight: lighter; */
   padding: 35px;
 }
 
@@ -75,7 +98,6 @@ span {
     );
   color: #FFF;
   min-height: 800px;
-  /*will add gradient to this section*/
 }
 
 .main-heading {
@@ -86,6 +108,11 @@ span {
 
 .main-prompt {
   padding: 20px;
+}
+
+.more-info {
+  margin: auto;
+  width: 80%;
 }
 
 .nav {
@@ -117,7 +144,8 @@ span {
 }
 
 .service {
-  border: 1px solid grey;
+  background: hsl(3, 0%, 98%);
+  border: 1px solid hsl(3, 0%, 88%);
   border-radius: 10px;
   display: flex;
   margin: 10px 15px;
@@ -130,9 +158,7 @@ span {
   flex-wrap: wrap;
   height: 400px;
   margin: auto;
-  padding: 100px;
-  /* justify-content: space-around; */
-  width: 80%;
+  width: 100%;
 }
 
 .title {
@@ -141,6 +167,15 @@ span {
 }
 
 /*ids*/
+
+#contact-btn {
+  border-radius: 7px;
+  font-size: 16px;
+  margin: 5px;
+  width: 150px;
+  padding: 10px;
+  border: none;
+}
 
 #down-arrow-btn {
   background-color: hsl(113, 47%, 62%);
