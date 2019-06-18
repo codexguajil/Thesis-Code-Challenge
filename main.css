@@ -5,8 +5,16 @@
   padding: 0;
 }
 
+/*general elements*/
+
 body {
   background: hsl(270, 100%, 50%);
+}
+
+/*classes*/
+
+.home-prompt {
+  /*will add gradient to this section*/
 }
 
 .main-heading {
@@ -22,4 +30,10 @@ body {
 
 .nav-btns {
   display: inline-flex;
+}
+
+/*ids*/
+
+#create-act-btn {
+  background-color: hsl(270, 100%, 50%);
 }
