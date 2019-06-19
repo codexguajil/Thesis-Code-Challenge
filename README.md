@@ -21,6 +21,6 @@ This is my coding challenge result for the Thesis mini-challenge. The page is fu
 
 <img width="417" alt="Screen Shot 2019-06-18 at 8 48 27 PM" src="https://user-images.githubusercontent.com/20582868/59733320-bf666d80-920a-11e9-94c7-d3ff4815d32c.png">       <img width="413" alt="Screen Shot 2019-06-18 at 8 49 30 PM" src="https://user-images.githubusercontent.com/20582868/59733328-c8573f00-920a-11e9-9680-5d7fb58b5196.png">
 
-### Wireframe:
+### Specification:
 
 <img width="615" alt="Screen Shot 2019-06-18 at 8 33 49 PM" src="https://user-images.githubusercontent.com/20582868/59732660-71506a80-9208-11e9-9e4c-93575fa8bc90.png">
