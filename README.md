@@ -7,7 +7,7 @@ This is my coding challenge result for the Thesis mini-challenge
 
 ### Desktop
 
-![2019-06-18 20 27 11](https://user-images.githubusercontent.com/20582868/59732485-ac05d300-9207-11e9-928a-e27ef81a6880.gif)
+![2019-06-18 20 44 42](https://user-images.githubusercontent.com/20582868/59733127-0869f200-920a-11e9-99ac-37fdecfdc2d7.gif)
 
 ### Mobile
 
