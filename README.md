@@ -1,7 +1,11 @@
 # Thesis-Code-Challenge
 
 ## About
-This is my coding challenge result for the Thesis mini-challenge. The page is fully responsive.
+This is my coding challenge result for the Thesis mini-challenge. The page is fully responsive with hover states for all clickable links.
+
+## Tech
+- HTML
+- CSS
 
 ## Screenshots
 
