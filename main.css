@@ -1,5 +1,4 @@
 *, body {
-  /* color: #FFF; */
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
@@ -10,8 +9,8 @@ body {
   background: linear-gradient(
     170deg,
     hsl(0, 0%, 100%),
-    hsl(0, 0%, 100%) 75%,
-    hsl(234, 67%, 97%) 75%,
+    hsl(0, 0%, 100%) 65%,
+    hsl(234, 67%, 97%) 65%,
     hsl(234, 67%, 97%) 100%
     );
 }
@@ -29,9 +28,25 @@ span {
 
 /*classes*/
 
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  width: 450px;
+}
+
+.contact-number {
+  line-height: 1.65;
+}
+
 .contact-section {
-  color: black;
+  background: hsl(270, 100%, 50%);
+  display: flex;
+  color: #FFF;
   display: inline-flex;
+  height: 200px;
+  padding: 100px;
+  width: 100%;
 }
 
 .create-act-btn {
@@ -67,7 +82,7 @@ span {
   margin: auto;
   margin-bottom: 150px;
   text-align: center;
-  width: 50%;
+  width: 60%;
 }
 
 .description-text {
@@ -100,6 +115,16 @@ span {
   min-height: 800px;
 }
 
+.list-item {
+  color: hsl(0, 0%, 80%);
+  margin: 15px;
+}
+
+.list-title {
+  color: #FFF;
+  font-weight: bold;
+}
+
 .main-heading {
   margin: auto;
   padding: 100px;
@@ -108,6 +133,7 @@ span {
 
 .main-prompt {
   padding: 20px;
+  text-align: center;
 }
 
 .more-info {
@@ -129,6 +155,11 @@ span {
   justify-content: space-around;
   list-style: none;
   width: 600px;
+}
+
+.number,
+.email {
+  padding-bottom: 10px;
 }
 
 .prompt-desc {
