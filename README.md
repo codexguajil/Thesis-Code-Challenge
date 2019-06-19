@@ -1,7 +1,7 @@
 # Thesis-Code-Challenge
 
 ## About
-This is my coding challenge result for the Thesis mini-challenge
+This is my coding challenge result for the Thesis mini-challenge. The page is fully responsive.
 
 ## Screenshots
 
