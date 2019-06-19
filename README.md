@@ -15,8 +15,7 @@ This is my coding challenge result for the Thesis mini-challenge. The page is fu
 
 ### Mobile
 
-![2019-06-18 20 29 31](https://user-images.githubusercontent.com/20582868/59732536-ee2f1480-9207-11e9-9ae6-d24526a2e3c4.gif)
-
+![mobile](https://user-images.githubusercontent.com/20582868/59734767-f3905d00-920f-11e9-9fdb-bfb8f7df142a.gif)
 
 <img width="416" alt="Screen Shot 2019-06-18 at 8 47 34 PM" src="https://user-images.githubusercontent.com/20582868/59733302-aeb5f780-920a-11e9-8b10-208c5627c0a9.png">       <img width="415" alt="Screen Shot 2019-06-18 at 8 48 15 PM" src="https://user-images.githubusercontent.com/20582868/59733311-b8d7f600-920a-11e9-8121-0a454694cfc8.png">
 
