@@ -7,7 +7,7 @@
 }
 
 body {
-  background: red;
+  background: #FFF;
   background: linear-gradient(
     170deg,
     hsl(0, 0%, 100%),
@@ -49,7 +49,7 @@ span {
 }
 
 .contact-section {
-  background: hsl(270, 100%, 50%);
+  background: hsl(248, 80%, 67%);
   display: flex;
   color: #FFF;
   display: inline-flex;
@@ -59,7 +59,7 @@ span {
 }
 
 .create-act-btn {
-  background-color: hsl(270, 100%, 50%);
+  background-color: hsl(248, 80%, 67%);
   border: none;
   border-radius: 7px;
   color: #FFF;
