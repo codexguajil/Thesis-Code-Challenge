@@ -27,11 +27,6 @@ li:hover {
 
 /*general elements*/
 
-h1 {
-  letter-spacing: .4;
-  font-size: 42px;
-}
-
 span {
   color: hsl(113, 47%, 62%);
 }
@@ -142,10 +137,12 @@ span {
 }
 
 .main-prompt {
+  font-size: 50px;
+  letter-spacing: .4;
   margin: auto;
   padding: 30px 0;
   text-align: center;
-  width: 79%;
+  width: 94%;
 }
 
 .more-info {
@@ -334,6 +331,7 @@ span {
 
   .domain-input {
     margin-bottom: 20px;
+    width: 90%;
   }
 
   .home-prompt {
@@ -347,6 +345,10 @@ span {
   .main-heading {
     padding: 0;
     width: 100%;
+  }
+
+  .main-prompt {
+    font-size: 42px;
   }
 
   .more-info {
@@ -370,6 +372,7 @@ span {
   }
 
   .prompt-desc {
+    color: hsl(0, 0%, 24%);
     width: 100%;
   }
   
