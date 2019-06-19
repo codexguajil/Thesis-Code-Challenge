@@ -289,13 +289,35 @@ span {
 /*tablet view*/
 
 @media only screen and (min-width: 800px) and (max-width: 1200px) {
+
+  .contact-section {
+    background: hsl(248, 80%, 67%);
+    display: flex;
+    color: #FFF;
+    height: 100%;
+    padding: 10% 0 10% 10%;
+    width: 90%;
+  }
+
   .main-heading {
     width: 50%;
+  }
+
+  .nav {
+    width: 92%;
   }
 
   .search {
     margin: auto;
     width: 66%;
+  }
+
+  .services {
+    height: 100%;
+  }
+
+  .title {
+    margin-left: initial;
   }
 }
 
@@ -303,7 +325,7 @@ span {
 
 @media only screen and (max-width: 800px) {
   body, html {
-    background-color: orange;
+    background-color: #FFF;
     width: 100%;
   }
 
