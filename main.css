@@ -1,3 +1,5 @@
+/*Sorted in alphabetical order by element, then class, then id */
+
 *, body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -14,6 +16,8 @@ body {
     hsl(234, 67%, 97%) 100%
     );
 }
+
+/*pseudo-elements and pseudo-classes*/
 
 button:hover {
   cursor: pointer;
@@ -283,6 +287,7 @@ span {
 
 
 /*tablet view*/
+
 @media only screen and (min-width: 800px) and (max-width: 1200px) {
   .main-heading {
     width: 50%;
